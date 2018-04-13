@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparente">#a5edeaeb</color>
+    <color name="transparente2">#deedeaeb</color>
+    <color name="transparente3">#b9f5710c</color>
+    <color name="black">#060606</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#1be717</color>
+    <color name="red">#e62f12</color>
+    <color name="fondocalendario">#ef7c4e</color>
+</resources>
